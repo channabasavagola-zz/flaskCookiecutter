@@ -1,5 +1,5 @@
-migrations/
 flaskCookiecutterEnv/
 app.db
 __pycache__/
+flaskApp/__pycache__/
 .DS_Store
