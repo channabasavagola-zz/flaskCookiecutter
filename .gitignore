@@ -1,3 +1,4 @@
+*.pyc
 flaskCookiecutterEnv/
 app.db
 __pycache__/
